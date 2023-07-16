@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/space-react/static/css/main.e3ba2d40.css",
+    "main.js": "/space-react/static/js/main.fe2ff1c4.js",
+    "static/media/nasa2.jpg": "/space-react/static/media/nasa2.1bf8fa9e3f6ecb0dc691.jpg",
+    "static/media/nasa3.jpg": "/space-react/static/media/nasa3.3ad3ff774639dd9b4720.jpg",
+    "static/media/nasa.jpg": "/space-react/static/media/nasa.247c7b29fbf8721456b4.jpg",
+    "index.html": "/space-react/index.html",
+    "main.e3ba2d40.css.map": "/space-react/static/css/main.e3ba2d40.css.map",
+    "main.fe2ff1c4.js.map": "/space-react/static/js/main.fe2ff1c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ba2d40.css",
+    "static/js/main.fe2ff1c4.js"
+  ]
+}
